@@ -1,4 +1,4 @@
 interface:
   display_name: "Planning"
-  short_description: "Plan meals and build a shopping brief"
-  default_prompt: "Use $planning as my personal chef to plan an interesting week of meals and the shopping needed for them."
+  short_description: "Plan meals and prepare my weekly shop"
+  default_prompt: "Use $planning to plan my meals and shopping for the week."

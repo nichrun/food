@@ -1,4 +1,4 @@
 interface:
   display_name: "Breakfast"
-  short_description: "Choose breakfast from food already at home"
-  default_prompt: "Use $breakfast to decide what I should have for breakfast and give me the recipe."
+  short_description: "Suggest a breakfast recipe from what’s in my kitchen"
+  default_prompt: "Use $breakfast to tell me what’s for breakfast."

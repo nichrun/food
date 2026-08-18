@@ -1,4 +1,4 @@
 interface:
   display_name: "Inventory"
-  short_description: "Track pantry, fridge, and freezer items"
-  default_prompt: "Use $inventory to update what food I have at home."
+  short_description: "Keep track of what’s in my kitchen"
+  default_prompt: "Use $inventory to update what’s in my kitchen."
