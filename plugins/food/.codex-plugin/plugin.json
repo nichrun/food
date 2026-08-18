@@ -1,0 +1,38 @@
+{
+  "name": "food",
+  "version": "0.1.0+codex.20260818214017",
+  "description": "Personal meal planning, recipe memory, food inventory, and Tesco shopping",
+  "author": {
+    "name": "Nicholas Runcie",
+    "url": "https://github.com/nichrun"
+  },
+  "homepage": "https://github.com/nichrun/food",
+  "repository": "https://github.com/nichrun/food",
+  "license": "MIT",
+  "keywords": [
+    "food",
+    "meal-planning",
+    "recipes",
+    "tesco",
+    "shopping"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Food",
+    "shortDescription": "Plan meals and prepare grocery shopping",
+    "longDescription": "A personal food assistant that remembers your preferences, tracks what\u2019s in your kitchen, suggests recipes, plans meals, and prepares your online grocery shop.",
+    "developerName": "Nicholas Runcie",
+    "category": "Lifestyle",
+    "capabilities": [
+      "Read",
+      "Write",
+      "Interactive"
+    ],
+    "websiteURL": "https://github.com/nichrun/food",
+    "defaultPrompt": [
+      "What\u2019s for dinner?",
+      "Plan my meals and do my weekly shop",
+      "Help me use what\u2019s in my fridge"
+    ]
+  }
+}

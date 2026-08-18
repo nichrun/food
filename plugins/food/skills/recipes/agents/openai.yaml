@@ -1,0 +1,4 @@
+interface:
+  display_name: "Recipes"
+  short_description: "Create recipes and remember what worked"
+  default_prompt: "Use $recipes to suggest a recipe from what I have."

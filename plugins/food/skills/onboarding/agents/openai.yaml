@@ -1,0 +1,4 @@
+interface:
+  display_name: "Onboarding"
+  short_description: "Set up or update a personal food profile"
+  default_prompt: "Use $onboarding to guide me through setting up my food profile and inventory, explaining what I should do at each step and what happens next."

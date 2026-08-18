@@ -1,0 +1,20 @@
+{
+  "name": "food-plugin",
+  "interface": {
+    "displayName": "Food"
+  },
+  "plugins": [
+    {
+      "name": "food",
+      "source": {
+        "source": "local",
+        "path": "./plugins/food"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Lifestyle"
+    }
+  ]
+}

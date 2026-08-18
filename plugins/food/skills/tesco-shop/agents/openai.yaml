@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tesco Shop"
+  short_description: "Prepare and record a complete Tesco shop"
+  default_prompt: "Use $tesco-shop to complete my Tesco shop."

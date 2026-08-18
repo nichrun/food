@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lunch"
+  short_description: "Choose lunch from food already at home"
+  default_prompt: "Use $lunch to decide what I should have for lunch and give me the recipe."
